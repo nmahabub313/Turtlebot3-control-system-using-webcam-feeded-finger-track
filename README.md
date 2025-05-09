@@ -94,15 +94,13 @@ ros2 run finger_control finger_controller
 
 ---
 
-## 📷 Demo
-
-![Architecture Diagram](./docs/software_architecture.png)
-
 ---
 
 ## 🧑‍💻 Authors
 
-- [Your Name](https://github.com/yourusername)
+Nafis Ibn Mahabub
+Kanafin Iskandar
+Ilyas
 
 ---
 
